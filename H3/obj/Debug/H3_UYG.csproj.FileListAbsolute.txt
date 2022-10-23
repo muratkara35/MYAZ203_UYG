@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\bin\Debug\H2_UYG.exe.config
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\bin\Debug\H2_UYG.exe
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\bin\Debug\H2_UYG.pdb
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\obj\Debug\H3_UYG.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\obj\Debug\H3_UYG.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\obj\Debug\H3_UYG.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\obj\Debug\H2_UYG.exe
+C:\Users\MSI\source\repos\H2_UYG\H2_UYG\obj\Debug\H2_UYG.pdb
