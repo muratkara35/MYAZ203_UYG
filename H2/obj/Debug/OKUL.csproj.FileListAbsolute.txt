@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\OKUL\OKUL\bin\Debug\OKUL.exe.config
+C:\Users\MSI\source\repos\OKUL\OKUL\bin\Debug\OKUL.exe
+C:\Users\MSI\source\repos\OKUL\OKUL\bin\Debug\OKUL.pdb
+C:\Users\MSI\source\repos\OKUL\OKUL\obj\Debug\OKUL.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\OKUL\OKUL\obj\Debug\OKUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\OKUL\OKUL\obj\Debug\OKUL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\OKUL\OKUL\obj\Debug\OKUL.exe
+C:\Users\MSI\source\repos\OKUL\OKUL\obj\Debug\OKUL.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\bin\Debug\KALITIM-UYG.exe.config
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\bin\Debug\KALITIM-UYG.exe
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\bin\Debug\KALITIM-UYG.pdb
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\obj\Debug\KALITIM-UYG.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\obj\Debug\KALITIM-UYG.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\obj\Debug\KALITIM-UYG.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\obj\Debug\KALITIM-UYG.exe
+C:\Users\MSI\source\repos\KALITIM-UYG\KALITIM-UYG\obj\Debug\KALITIM-UYG.pdb
