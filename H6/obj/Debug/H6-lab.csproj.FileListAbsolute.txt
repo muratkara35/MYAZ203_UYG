@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\H6-lab\H6-lab\bin\Debug\H6-lab.exe.config
+C:\Users\MSI\source\repos\H6-lab\H6-lab\bin\Debug\H6-lab.exe
+C:\Users\MSI\source\repos\H6-lab\H6-lab\bin\Debug\H6-lab.pdb
+C:\Users\MSI\source\repos\H6-lab\H6-lab\obj\Debug\H6-lab.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\H6-lab\H6-lab\obj\Debug\H6-lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\H6-lab\H6-lab\obj\Debug\H6-lab.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\H6-lab\H6-lab\obj\Debug\H6-lab.exe
+C:\Users\MSI\source\repos\H6-lab\H6-lab\obj\Debug\H6-lab.pdb
